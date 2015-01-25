@@ -51,34 +51,8 @@ These apply to real life, as well.
 
 ## Course Outline
 
-### Class 1
-
-1. Introduction
-* Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
-* Sign up for GitHub
-1. Student checklist:
-* Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted
-* [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-1. Explain how slides work
-1. Get through `echo_exercise` slide
-1. GitHub workflow
-* Walk through [workflow](#workflow)
-* Create pull request on [students repository](https://github.com/advanced-js/students)
-1. Get through "self_executing_functions" slide
-
 #### Homework
 
-* Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises
-* Complete [blink](https://github.com/advanced-js/blink) exercise
-
-## Pairing Tips
-
-* Three people is possible, but two works best
-* Agree on an editor and environment that you're both comfortable with
-* The person who's less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it to both people
 
 ## Resources
 
@@ -119,4 +93,4 @@ Please respect the terms of use and/or license of any code you find, and if you 
 
 ### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/advanced-js are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
